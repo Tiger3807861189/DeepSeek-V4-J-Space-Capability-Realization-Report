@@ -307,3 +307,26 @@ J-Space 在此基础上处理更完整的问题：让高质量轨迹不只在第
 - [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
 - [J-Space Cognition Suite V3.6 README](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)
 - [J-Space 科学参考](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6/blob/main/j-space/references/j-space-science.md)
+
+---
+
+## How to cite | 引用方式
+
+If you use this report in your research, please cite it as:
+
+> Tiger3807861189. (2026). *DeepSeek V4 × J-Space Capability Realization Report* (Version 1.0). https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report
+
+BibTeX:
+
+```bibtex
+@misc{jspace_report_2026,
+  author       = {Tiger3807861189},
+  title        = {{DeepSeek V4} x {J-Space} Capability Realization Report},
+  year         = {2026},
+  version      = {1.0},
+  howpublished = {\url{https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report}},
+  note         = {Licensed under CC BY-ND 4.0}
+}
+```
+
+本报告引用请注明上述出处。报告采用 CC BY-ND 4.0 协议：引用时须署名，禁止修改或改编后分发。
