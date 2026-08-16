@@ -154,7 +154,7 @@ Loop 账本只保留五类任务状态：`Goal / Core / Verified / Open / Next`�
 
 ### 4.2 完整模型对比
 
-| Benchmark | V4-Flash-0731 | V4-Flash + J-Space | V4-Pro-0813 | V4-Pro-0813 + J-Space | GLM-5.3 | Kimi-K3 | Opus-4.8 | Fable 5（w/ fallback） |
+| Benchmark | V4-Flash-0731 | V4-Flash-0731 + J-Space | V4-Pro-0813 | V4-Pro-0813 + J-Space | GLM-5.3 | Kimi-K3 | Opus-4.8 | Fable 5（w/ fallback） |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | HLE（无工具） | 37.8 | 45.5 | 42.7 | 48.0 | — | 43.5 | 49.8 | **53.3** |
 | HLE（有工具） | 51.5 | 60.6 | 60.0 | **67.7** | 62.5 | 56.0 | 57.9 | 63.0 |
