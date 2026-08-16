@@ -1,5 +1,9 @@
 # DeepSeek V4 × J-Space 能力释放报告
 
+> **© 2026 Tiger3807861189.** This work is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/) (CC BY-ND 4.0). You may share and cite this report with attribution; you may **not** modify, adapt, or create derivative works of it for distribution.
+>
+> **© 2026 Tiger3807861189.** 本报告采用 [知识共享-署名-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nd/4.0/)（CC BY-ND 4.0）授权。可署名引用与转载；**禁止**修改、改编或基于本报告创作演绎作品后分发。
+
 J-Space 是一个插件，已通过 benchmark 验证了它对于 Deepseek 的提升巨大，flash基本持平 GLM5.3，pro超越Fable 5 。仓库地址如下：https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6
 
 已开源，欢迎大家使用，如果体验不错，欢迎star 
