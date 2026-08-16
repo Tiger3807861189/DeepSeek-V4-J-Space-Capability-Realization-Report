@@ -1,0 +1,32 @@
+# CITATION.cff — machine-readable citation metadata
+# GitHub shows a "Cite this repository" button when this file exists.
+# Format: Citation File Format 1.2.0 (https://citation-file-format.github.io/)
+
+cff-version: 1.2.0
+message: "If you use this report in your research, please cite it as follows."
+title: "DeepSeek V4 × J-Space Capability Realization Report"
+authors:
+  - family-names: "Tiger3807861189"
+    given-names: ""
+    orcid: ""
+    affiliation: ""
+date-released: "2026-08-17"
+version: "1.0"
+doi: ""
+license: "CC-BY-ND-4.0"
+keywords:
+  - "DeepSeek V4"
+  - "J-Space"
+  - "capability realization"
+  - "benchmark"
+  - "agentic reasoning"
+  - "inference-time control"
+  - "dsh-plugin"
+url: "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
+abstract: >-
+  This report analyzes how DeepSeek V4 (Flash-0731 / Pro-0813) loses
+  capability under real agentic conditions and how the J-Space Cognition
+  Suite reduces capability-realization loss. It documents benchmark evidence,
+  the chain-of-thought diode analysis, and engineering conclusions. The report
+  is licensed under CC BY-ND 4.0: share and cite with attribution; do not
+  modify or distribute derivative works.
