@@ -312,7 +312,7 @@ J-Space 在此基础上处理更完整的问题：让高质量轨迹不只在第
 
 ## How to cite | 引用方式
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21971186.svg)](https://doi.org/10.5281/zenodo.21971186)
+[![DOI](https://zenodo.org/badge/1335867536.svg)](https://zenodo.org/badge/latestdoi/1335867536)
 
 If you use this report in your research, please cite it as:
 
