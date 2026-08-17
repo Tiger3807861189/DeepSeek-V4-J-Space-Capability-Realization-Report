@@ -312,9 +312,11 @@ J-Space 在此基础上处理更完整的问题：让高质量轨迹不只在第
 
 ## How to cite | 引用方式
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21971186.svg)](https://doi.org/10.5281/zenodo.21971186)
+
 If you use this report in your research, please cite it as:
 
-> Tiger3807861189. (2026). *DeepSeek V4 × J-Space Capability Realization Report* (Version 1.0). https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report
+> Tiger3807861189. (2026). *DeepSeek V4 × J-Space Capability Realization Report* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21971186
 
 BibTeX:
 
@@ -324,9 +326,10 @@ BibTeX:
   title        = {{DeepSeek V4} x {J-Space} Capability Realization Report},
   year         = {2026},
   version      = {1.0},
-  howpublished = {\url{https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report}},
+  doi          = {10.5281/zenodo.21971186},
+  howpublished = {\url{https://doi.org/10.5281/zenodo.21971186}},
   note         = {Licensed under CC BY-ND 4.0}
 }
 ```
 
-本报告引用请注明上述出处。报告采用 CC BY-ND 4.0 协议：引用时须署名，禁止修改或改编后分发。
+本报告引用请注明上述出处（含 DOI）。报告采用 CC BY-ND 4.0 协议：引用时须署名，禁止修改或改编后分发。
