@@ -316,7 +316,7 @@ J-Space 在此基础上处理更完整的问题：让高质量轨迹不只在第
 
 If you use this report in your research, please cite it as:
 
-> Tiger3807861189. (2026). *DeepSeek V4 × J-Space Capability Realization Report* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21971186
+> Tiger3807861189. (2026). *DeepSeek V4 × J-Space Capability Realization Report* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21971185
 
 BibTeX:
 
@@ -326,8 +326,8 @@ BibTeX:
   title        = {{DeepSeek V4} x {J-Space} Capability Realization Report},
   year         = {2026},
   version      = {1.0},
-  doi          = {10.5281/zenodo.21971186},
-  howpublished = {\url{https://doi.org/10.5281/zenodo.21971186}},
+  doi          = {10.5281/zenodo.21971185},
+  howpublished = {\url{https://doi.org/10.5281/zenodo.21971185}},
   note         = {Licensed under CC BY-ND 4.0}
 }
 ```
