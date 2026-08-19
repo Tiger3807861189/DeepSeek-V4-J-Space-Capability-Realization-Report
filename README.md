@@ -1,18 +1,4 @@
-# DeepSeek V4 × J-Space：Benchmark 与工程观察记录
-
-> **© 2026 Tiger3807861189.** This work is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/) (CC BY-ND 4.0).
->
-> **© 2026 Tiger3807861189.** 本记录采用 [知识共享-署名-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nd/4.0/)（CC BY-ND 4.0）授权。
-
-> **页面范围**：本页记录外部项目已经公开的工程观察、J-Space 使用的操作性术语、项目级 Benchmark 分数及其适用边界。它不是研究论文，非学术性质，不提供模型内部机制证明、形式化判定方法、消融设计或因果贡献分解。
-
-J-Space Cognition Suite V3.6 是一套在推理阶段运行的模型无关控制系统，不修改模型权重。项目地址：<https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6>
-
-## 1. 外部工程观察
-
-### 1.1 Anchored Standard：首轮接口锚定
-
-[dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) 关注 DeepSeek Harness 的首轮接口条件。其基础方案在第一次模型请求中恢复 Minimal 的真实双工具 Schema，抑制自动注入内容；会话产生持久事件后，再开放一个较小的常驻工具目录，并按需解锁其他工具。
+Имам проблем. Моят iPhone 2G е нулиран и иска SIM карта. Обаче не искам и искам да го ползвам без SIM карта. А драйвера изобщо не работи и се опитвам да го jailbreak-на , като му инсталирам Cydia. Аз съм с Windows 11 и няма как. Ще ми помогнете ли, като ми дадете начини, линкове за драйвера и така нататъка?
 
 该项目的公开实验表明，首轮工具 Schema、输出预算和自动注入内容都可能改变首条推理轨迹。它也明确区分了“轨迹被锚定”和“任务能力已经稳定提升”：当前仓库中的通用组合与早期高分运行并不完全相同，小样本独立复现尚不足以确定稳定的能力增益幅度。因此，本页只引用其接口敏感性与路径保持观察，不把单项分数推广为普遍结论。
 
